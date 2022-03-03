@@ -1,7 +1,7 @@
 ---
 title: "Sitemap"
 permalink: /sitemap/
-layout: posts
+layout: pages
 author_profile: true
 
 ---
