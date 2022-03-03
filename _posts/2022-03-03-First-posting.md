@@ -2,14 +2,12 @@
 title:  "첫번째 포스팅"
 categories:
   - Daily
-permalink: /daily/
 tags:
   - blog
 toc: true
 toc_sticky: true 
 date: 22-03-03
 last_modified_at: 22-03-03
-taxonomy: Daily
 
 ---
 
