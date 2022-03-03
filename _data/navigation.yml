@@ -10,3 +10,20 @@ main:
     url: /daily/
   - title: "Sitemap"
     url: /sitemap/
+
+docs:
+  - title: "Coding Problem"
+    children:
+      - title: "Boj"
+        url: /study/boj/
+      - title: "SW"
+        url: /study/sw/
+      - title: "programmers"
+        url: /study/programmers/
+       
+  - title: "AI"
+    children:
+      - title: "cv"
+        url: /study/cv/
+      - title: "NLP"
+        url: /study/nlp/
