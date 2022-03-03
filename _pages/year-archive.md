@@ -1,8 +1,6 @@
 ---
 title: "Daily"
+permalink: /year-archive/
 layout: posts
-permalink: /daily/
 author_profile: true
-taxonomy: Daily
-
 ---
