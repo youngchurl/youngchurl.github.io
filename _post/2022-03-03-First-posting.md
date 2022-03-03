@@ -3,7 +3,7 @@ title:  "첫번째 포스팅"
 excerpt: "우여곡절이 많았던 깃블로그...."
 
 categories:
-  - Daily
+  - daily
 tags:
   - [Blog, jekyll, Github, Git]
 
