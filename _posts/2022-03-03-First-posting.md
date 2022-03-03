@@ -2,7 +2,7 @@
 title:  "첫번째 포스팅"
 categories:
   - Daily
-#permalink: /daily/
+permalink: /daily/
 tags:
   - blog
 toc: true
@@ -11,6 +11,7 @@ date: 22-03-03
 last_modified_at: 22-03-03
 
 ---
+
 
 ## 1. 이게되는지는 모르겠지만...
 진짜 3일을 시행착오 끝에 이제 어느정도 하는 법을 알았다...
