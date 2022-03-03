@@ -5,7 +5,7 @@ main:
   - title: "About"
     url: /about/
   - title: "Study"
-    url: /study/
+    url: /doc/
   - title: "Daily"
     url: /daily/
   - title: "Sitemap"
