@@ -13,6 +13,18 @@ toc_sticky: true
 date: 2022-03-03
 last_modified_at: 2022-03-03
 
+defaults:
+  - scope:
+      path: "/daily/"
+      type: posts
+    values:
+      layout: single
+      author_profile: true
+      read_time: true
+      comments: true
+      share: true
+      related: true
+
 ---
 
 ## 1. 이게되는지는 모르겠지만...
