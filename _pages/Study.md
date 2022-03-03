@@ -1,7 +1,7 @@
 ---
 title: "Study"
 permalink: /study/
-layout: categories
+layout: posts
 author_profile: true
 
 ---
