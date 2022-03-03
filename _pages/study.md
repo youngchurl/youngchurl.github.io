@@ -1,6 +1,6 @@
 ---
 title: "Study"
-permalink: /study/
+permalink: /docs/study/
 layout: posts
 author_profile: true
 taxonomy: Study
