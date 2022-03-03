@@ -154,6 +154,7 @@ include:
   - .htaccess
   - _pages
   - .jekyll-assets-cache
+  - _post
 exclude:
   - "*.sublime-project"
   - "*.sublime-workspace"
