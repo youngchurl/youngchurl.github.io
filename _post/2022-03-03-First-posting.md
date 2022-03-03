@@ -4,6 +4,7 @@ excerpt: "우여곡절이 많았던 깃블로그...."
 
 categories:
   - daily
+permalink: /daily/
 tags:
   - blog
 
