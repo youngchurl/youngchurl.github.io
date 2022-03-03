@@ -1,18 +1,14 @@
 ---
 title:  "첫번째 포스팅"
-excerpt: "우여곡절이 많았던 깃블로그...."
-
 categories:
   - daily
 permalink: /daily/
 tags:
   - blog
-
 toc: true
-toc_sticky: true
- 
-date: 2022-03-03
-last_modified_at: 2022-03-03
+toc_sticky: true 
+date: 22-03-03
+last_modified_at: 22-03-03
 
 ---
 
