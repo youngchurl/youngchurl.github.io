@@ -9,6 +9,7 @@ toc: true
 toc_sticky: true 
 date: 22-03-03
 last_modified_at: 22-03-03
+taxonomy: Daily
 
 ---
 
