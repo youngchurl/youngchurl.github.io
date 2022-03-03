@@ -5,27 +5,9 @@ main:
   - title: "About"
     url: /about/
   - title: "Study"
-    url: /docs/study/
+    url: /collection-archive/
   - title: "Daily"
     url: /year-archive/
   - title: "Sitemap"
     url: /sitemap/
 
-docs:
-  - title: "Coding Problem"
-    children:
-      - title: "Study"
-        url: /docs/study/    
-      - title: "Boj"
-        url: /docs/boj/
-      - title: "SW"
-        url: /docs/sw/
-      - title: "Programmers"
-        url: /docs/programmers/
-       
-  - title: "AI"
-    children:
-      - title: "Computer Vision"
-        url: /docs/cv/
-      - title: "NLP"
-        url: /docs/nlp/
