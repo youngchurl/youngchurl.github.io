@@ -1,6 +1,6 @@
 ---
 title: "Daily"
 permalink: /daily/
-layout: posts
+layout: pages
 author_profile: true
 ---
