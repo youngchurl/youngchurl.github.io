@@ -5,7 +5,7 @@ main:
 #   - title: "About"
 #     url: /about/
   - title: "KeyWord"
-    url: /collection-archive/
+    url: /categories/
   - title: "Daily"
     url: /year-archive/
   - title: "Sitemap"
