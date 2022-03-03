@@ -5,7 +5,7 @@ excerpt: "우여곡절이 많았던 깃블로그...."
 categories:
   - daily
 tags:
-  - [Blog, jekyll, Github, Git]
+  - blog
 
 toc: true
 toc_sticky: true
