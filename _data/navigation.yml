@@ -15,15 +15,15 @@ docs:
   - title: "Coding Problem"
     children:
       - title: "Boj"
-        url: /study/boj/
+        url: /docs/boj/
       - title: "SW"
-        url: /study/sw/
-      - title: "programmers"
-        url: /study/programmers/
+        url: /docs/sw/
+      - title: "Programmers"
+        url: /docs/programmers/
        
   - title: "AI"
     children:
-      - title: "cv"
-        url: /study/cv/
+      - title: "Computer Vision"
+        url: /docs/cv/
       - title: "NLP"
-        url: /study/nlp/
+        url: /docs/nlp/
