@@ -1,8 +1,8 @@
 ---
 title:  "첫번째 포스팅"
 categories:
-  - daily
-permalink: /daily/
+  - Daily
+
 tags:
   - blog
 toc: true
