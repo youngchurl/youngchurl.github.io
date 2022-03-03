@@ -3,7 +3,7 @@ title: "Study"
 permalink: /study/
 layout: posts
 author_profile: true
-<!-- children:
+'''children:
   - title: "Coding Test"
     text: "Boj"
     url: /study/quick-start-guide/
@@ -28,5 +28,5 @@ author_profile: true
       - title: "Installation"
         url: /docs/installation/
       - title: "Upgrading"
-        url: /docs/upgrading/ -->
+        url: /docs/upgrading/'''
 ---
