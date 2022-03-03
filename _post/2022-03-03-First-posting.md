@@ -1,6 +1,6 @@
 ---
 title:  "첫번째 포스팅"
-Daily:
+categories:
   - Daily
 
 tags:
