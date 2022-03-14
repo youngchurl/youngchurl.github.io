@@ -6,8 +6,10 @@ main:
 #     url: /about/
   - title: "Categories"
     url: /categories/
-  - title: "Daily"
+  - title: "Year"
     url: /year-archive/
+  - title: "Tags"
+    url: /tags/
   - title: "Sitemap"
     url: /sitemap/
 
