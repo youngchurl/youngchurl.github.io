@@ -3,7 +3,7 @@ title:  "첫번째 포스팅"
 categories:
   - Daily
 tags:
-  - blog
+  - Daily
 toc: true
 toc_sticky: true 
 date: 22-03-03
